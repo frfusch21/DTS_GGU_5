@@ -1,0 +1,140 @@
+vendor_id,base_fare,fare_per_km
+Bogotá,1.16,1.62
+Bogota UberBlack,0.74,0.24
+Bogotá UberX,0.54,0.14
+Bogotá UberVan,1.24,0.31
+Bogotá UberAngel,,
+Quito,0.55,0.33
+Quito Cabify Lite,0.55,0.23
+Quito Cabify Executive,0.55,0.23
+Quito UberX,0.80,0.30
+México DF Taxi Libre,0.37,0.20
+México DF Taxi de Sitio,0.56,0.22
+México DF Radio Taxi,1.15,0.30
+México DF UberX,0.34,0.17
+México DF UberXL,0.60,0.31
+México DF UberSUV,1.95,0.74
+México DF UberBlack,1.46,0.46
+Aguascalientes,0.88,0.76
+Aguascalientes UberX,0.29,0.15
+Ambato,1.38,1.38
+Ant Ecuador,,
+Armenia,1.44,0.24
+Azogues,,
+Barranquilla,1.39,1.62
+Barranquilla UberBlack,0.93,0.32
+Barranquilla UberX,0.66,0.09
+Brasilia,0.75,0.41
+Brasilia UberBLACK,0.73,0.40
+Brasilia UberX,0.49,0.23
+Bucaramanga,1.30,1.34
+Bucaramanga UberX,0.51,0.21
+Buenos Aires,1.00,0.47
+Cali,1.14,1.27
+Cali Uber,0.49,0.16
+Cali UberX,0.42,0.12
+Cartagena UberBlack,0.74,0.25
+Cartagena UberX,0.53,0.07
+Colonia,,
+Concepción UberX,2.55,2.82
+Córdoba,1.11,0.50
+Córdoba Auto de Lujo,,
+Córdoba Remis,,
+Costa Rica Rural,,
+Costa Rica Taxi Adaptado,,
+Costa Rica Taxi Sedán,,
+Cúcuta,1.16,0.72
+Cúcuta UberX,,
+Cuenca,1.50,1.50
+Cuenca +7km,,
+Cuernavaca UberX,0.34,0.28
+Default Fare,,
+Ecuador,,
+Esmeraldas,,
+Gran Mendoza Remis,,
+Guadalajara,1.46,0.47
+Guadalajara Easy Taxi,,
+Guadalajara UberBLACK,1.56,0.43
+Guadalajara UberSUV,1.71,0.69
+Guadalajara UberX,0.39,0.17
+Guadalajara UberXL,0.60,0.49
+Guayaquil Cabify Guayaco,,
+Guayaquil Cabify Lite,0.58,0.28
+Guayaquil UberX,0.50,0.25
+Houston,2.75,1.38
+Houston UberBlack,7.75,3.54
+Houston UberSelect,4.00,2.33
+Houston UberSUV,14.75,4.10
+Houston UberX,1.00,1.29
+Ibagué,0.60,0.13
+Ibagué UberX,0.41,0.12
+Ibarra,,
+La Plata,0.18,0.18
+León UberX,0.39,0.17
+Lima UberX,0.84,0.21
+Loja,1.60,1.70
+Machala,1.60,1.70
+Manta,1.50,1.50
+Mar del Plata,1.00,0.72
+Medellín,1.06,0.24
+Medellín UberBlack,0.73,0.24
+Medellín UberX,0.58,0.14
+Mendoza,1.63,1.50
+Mexicali UberX,,
+Monterrey,1.46,0.49
+Monterrey Easy Taxi,,
+Monterrey Socio Conde,,
+Monterrey UberBLACK,1.65,0.40
+Monterrey UberX,0.30,0.21
+Monterrey UberXL,0.97,0.35
+Montevideo,1.43,1.55
+Montevideo UberX,0.82,0.29
+Panamá Uber,,
+Panamá UberSUV,2.20,0.89
+Panamá UberX,0.80,0.32
+Pereira,1.00,1.14
+Pereira UberX,0.49,0.11
+Popayan UberX,,
+Portoviejo,1.60,1.70
+Puebla Easy Taxi,,
+Puebla Easy Taxi >10km,,
+Puebla UberBLACK,1.46,0.46
+Puebla UberX,0.32,0.16
+Rio de Janeiro,1.11,0.76
+Rio de Janeiro Executive,,
+Rio de Janeiro UberBLACK,0.74,0.60
+Rio de Janeiro UberX,0.37,0.42
+Riobamba,1.60,1.70
+Rosario,0.80,2.00
+Rosario Remis,0.49,0.22
+Rumiñahui,,
+Salta,0.18,0.18
+Salta Remis,0.24,0.16
+Salvador,0.28,0.14
+Salvador UberX,0.12,0.13
+San José UberX,0.59,0.35
+San José UberXL,1.10,0.66
+Santa Fe,0.24,0.15
+Santa Fe Remis,,
+Santiago,0.37,1.05
+Santiago de los Caballeros,2.38,2.75
+Santiago UberBlack,1.35,0.45
+Santiago UberSUV,1.73,0.54
+Santiago UberX,0.49,0.24
+Santiago UberXL,1.35,0.43
+Santo Domingo UberX,0.64,0.18
+Santo Domingo UberXL,0.74,0.33
+São Paulo,1.02,0.74
+São Paulo Luxury Taxi,1.13,0.69
+São Paulo UberBLACK,0.74,0.59
+São Paulo UberX,0.37,0.41
+Sincelejo UberX,,
+St. Domingo,2.90,1.78
+Tijuana UberBLACK,1.46,0.52
+Tijuana UberX,0.41,0.23
+Tijuana UberXL,0.97,0.41
+Toluca UberX,0.27,0.17
+Uruguay,1.42,1.54
+Valledupar UberX,0.51,0.20
+Valparaiso UberX,0.43,0.35
+Villavicencio UberX,2.00,2.00
